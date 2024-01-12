@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MPMART</string>
+
+    //pasta
+
+    <string name="pastaIngredients">Cimory
+\nSusu sapi segar
+\nSusu bubuk full cream
+\nGula
+\nAir
+\nSusu skrim bubuk
+\nKakao bubuk
+\nPenstabil </string>
+    <string name="pastaDesc">Susu UHT adalah metode sterilisasi susu dengan cara memanaskan susu dengan suhu yang sangat tinggi, yaitu 135-145 derajat Celcius selama 2-4 detik.
+        Proses pengolahan susu UHT dengan suhu tinggi dinilai mampu mematikan bakteri patogen, sehingga susu menjadi steril.</string>
+
+    //burgers
+
+    <string name="burgerIngredients">Cocacola
+\nAir berkarbonasi
+\nGula
+\nPewarna karamel (kelas IV)
+\nKonsentrat kola
+\nPengatur keasaman (asam fosfat)
+\nKafein </string>
+    <string name="burgerDesc">Pengolahan air.
+\nMasukan sirup.
+\nCampuran tersebut dijenuhkan dengan karbon dioksida pada suhu rendah dan di bawah tekanan tinggi untuk memberikan minuman "fizziness" yang terkenal.
+\nMengisi dan mengemas.
+\nCocacola sudah siap!</string>
+
+    //fries
+
+    <string name="friesIngredients">Sprite
+\nAir berkarbonasi
+\nGula
+\nPengatur keasaman (asam sitrat, natrium sitrat)
+\nPerisa (alami, identik alami)
+\nPengawet (natrium benzoat)    </string>
+    <string name="friesDesc">Sprite adalah minuman ringan berkarbonasi transparan rasa lemon dan jeruk nipis serta bebas kafeina yang diproduksi oleh The Coca-Cola Company</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
